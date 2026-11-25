@@ -1,0 +1,8 @@
+Martial
+
+Arachnophobia - Fear of spiders.
+Shortsighted - Bad at ranged weapons.
+Shy - Terrible at speaking and negotiating.
+Rabid - Has a 1/11 chance of snapping and attacking allies when battle begins (can spread to others).
+Smelly - Cannot sneak.
+Bullied - Fearful of enemies larger than you.
